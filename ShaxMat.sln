@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaxMat", "ShaxMat\ShaxMat.csproj", "{F9EAA0F5-C146-4315-9D2E-E784500AE7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessConsole", "ChessConsole\ChessConsole.csproj", "{D1FF8AD4-8F82-49BF-BB69-AE07703354BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaxMatTests", "ShaxMatTest\ShaxMatTests.csproj", "{A9D6D4C4-EF87-4659-8FF5-8180DDEEB05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EAA0F5-C146-4315-9D2E-E784500AE7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EAA0F5-C146-4315-9D2E-E784500AE7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EAA0F5-C146-4315-9D2E-E784500AE7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EAA0F5-C146-4315-9D2E-E784500AE7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FF8AD4-8F82-49BF-BB69-AE07703354BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FF8AD4-8F82-49BF-BB69-AE07703354BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FF8AD4-8F82-49BF-BB69-AE07703354BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FF8AD4-8F82-49BF-BB69-AE07703354BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D6D4C4-EF87-4659-8FF5-8180DDEEB05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D6D4C4-EF87-4659-8FF5-8180DDEEB05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D6D4C4-EF87-4659-8FF5-8180DDEEB05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D6D4C4-EF87-4659-8FF5-8180DDEEB05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
